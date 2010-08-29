@@ -1,9 +1,9 @@
 # Aim Status
 
-* Version: 1.0
+* Version: 1.1
 * Author: [Joseph Denne](mailto:me@josephdenne.com)
 * Build Date: 29th August 2010
-* GitHub Repository: [http://github.com/josephdenne/AIM-Status/tree/master](http://github.com/josephdenne/AIM-Status/tree/master)
+* GitHub Repository: [http://github.com/josephdenne/aim_status/tree/master](http://github.com/josephdenne/aim_status/tree/master)
 * Requirements: Symphony 2.0.7
 
 ## Summary
