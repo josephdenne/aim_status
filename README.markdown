@@ -10,6 +10,8 @@
 
 Gets an AIM users online status.
 
+![The end result](http://josephdenne.com/workspace/images/screenshots/aim-status/end-result.png)
+
 ## Installation
 
 1. Upload the `aim_status` folder in this archive to your Symphony `extensions` folder
